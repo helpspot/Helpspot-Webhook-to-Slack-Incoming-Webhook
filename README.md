@@ -1,7 +1,7 @@
 # Helpspot-Webhook-to-Slack-Incoming-Webhook
 This integration script provides a sample connection between HelpSpot webhooks and the Slack incoming webhook API. You can find documentation on Slack's incoming webhooks here: https://api.slack.com/incoming-webhooks. You can find documenation on Helpspot's webhooks here.
 
-##Setup Instructions
+## Setup Instructions
 1. Login to your slack team and navigate to Integrations > Incoming Webhooks
 2. Add a new incoming webhook and note the webhook url
 3. Clone or copy basic-slack-webhook.php to the custom_code directory on your webserver 
